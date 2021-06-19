@@ -8,5 +8,5 @@ def timeout_handler(timeout=10):
 
 timeout_handler()
 while True:
-    print "loop"
+    print "Loading"
     time.sleep(1)
